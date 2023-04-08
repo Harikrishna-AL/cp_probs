@@ -1,4 +1,4 @@
-input=list(map(int, input("elements of array:-").strip().split()))
+input=list(map(int, input("").strip().split()))
 def main():
     n = input[0]
     m = input[1]
